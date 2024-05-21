@@ -4,3 +4,4 @@ Petualangan menyusun kata binatang adalah sebuah game yang dibuat untuk mengeduk
 
 Daftar binatang yang ada pada game ini antara lain :  Ayam, Ikan, Itik, Kera, Kuda, Rusa, Sapi, Ular, Ulat dan Unta.
 
+Game = https://ekiasari.itch.io/petualangan-menyusun-kata-binatang
